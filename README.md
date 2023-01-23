@@ -47,6 +47,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosMena01&theme=dark)](https://git.io/streak-stats)
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmena01&show_icons=true&theme=dark)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmena01&show_icons=true&theme=dark&PATH_1=xSegUcy7svXceMqjOpOBEMe5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmena01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmena01&layout=compact&theme=dark&PATH_1=xSegUcy7svXceMqjOpOBEMe5)](https://github.com/anuraghazra/github-readme-stats)
